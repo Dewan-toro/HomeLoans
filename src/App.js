@@ -12,8 +12,8 @@ function App() {
         flexDirection: "column",
       }}
     >
-      <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDmcO74Q05QZv5XQuAUn8uglR_fg4lc1gTg&usqp=CAU" size="medium" />
-      <Segment size="medium" style={{ width: "30vw", marginTop: "50px" }} raised>
+      <Image src="https://i.ibb.co/fNbpDN3/Logo.png" size="medium" />
+      <Segment size="medium" style={{ width: "30vw" }} raised>
         <Header>Login</Header>
         <Form>
           <Form.Field>

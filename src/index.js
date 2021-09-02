@@ -4,9 +4,11 @@ import "./index.css";
 import "semantic-ui-css/semantic.min.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
+import Navbar from './Navbar';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Navbar />
     <App />
   </React.StrictMode>,
   document.getElementById("root")
