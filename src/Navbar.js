@@ -11,7 +11,7 @@ function Navbar() {
               src="https://i.ibb.co/sRxB8VL/Cybercode.png"
               style={{ marginRight: "1.5em" }}
             />
-            CyberCode
+            CyberBank
           </Menu.Item>
           <Menu.Item position='right'>
                   <Button as='a' inverted>
